@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767239607158",
+    "project_id": "notification-app-4d681",
+    "storage_bucket": "notification-app-4d681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767239607158:android:d412f96b9614296daf2057",
+        "android_client_info": {
+          "package_name": "com.task1_20180155_20180060_20180146_20180268.cloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767239607158-9q9i57bvva3ck6kit7r5bh93mpma2s11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBViTt5vaoh-EhLpp_cC4D0iXPkmBkB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767239607158-9q9i57bvva3ck6kit7r5bh93mpma2s11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
